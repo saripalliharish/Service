@@ -1,0 +1,10 @@
+
+#Host Groups
+[control]
+10.142.0.2
+[loadbalancer]
+10.142.0.6
+[webserver]
+10.142.0.3
+[database]
+10.142.0.5
